@@ -1,0 +1,1010 @@
+{
+ "theme": {
+  "lang": "zh-CN",
+  "title": "丹吉尔攻略",
+  "fonts_href": "https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@700;900&display=swap",
+  "extra_css": [],
+  "nobreak": [
+   "丹吉尔"
+  ],
+  "footer_label": "丹吉尔攻略 · 调研整理",
+  "credit_prefix": "图 ",
+  "credits_title": "图片来源",
+  "credits_lede": "照片均来自 Wikimedia Commons，按各自的许可使用，作者见下。除标明地点的，多数是摩洛哥各地的示意图，不是丹吉尔实拍。",
+  "credits_note": "内容为出发前的调研整理，价格是区间不是实测，营业状态和价格以现场为准。"
+ },
+ "cards": [
+  {
+   "type": "cover",
+   "where": "摩洛哥北端，隔着海峡望西班牙",
+   "title": "丹吉尔",
+   "sub": [
+    "买什么 · 吃什么 · 怎么砍价",
+    "去哪看海"
+   ],
+   "meta": "出发前调研整理版 · 价格单位迪拉姆 dh，1 € ≈ 10.5 dh",
+   "image": 5
+  },
+  {
+   "theme": "wall",
+   "stamp": "买",
+   "title": "先记住一件事：丹吉尔不产陶器，它是个转口市场",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "本地真正的产出",
+       "desc": "只有两样：皮革，和里夫山区的手织毯"
+      },
+      {
+       "name": "其余全是运来的",
+       "desc": "陶器来自萨菲和非斯，铜器、木器、地毯来自马拉喀什和索维拉"
+      },
+      {
+       "name": "所以价格有规律",
+       "desc": "摊主开价约是成交价的 2–3 倍。从 1/3 还起，落在 50% 左右"
+      },
+      {
+       "name": "第一站去哪",
+       "desc": "Ensemble Artisanal：政府办的固定价手工艺中心，不砍价。先看清真货长什么样、值多少，再进露天摊位"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "丹吉尔的砍价压力比马拉喀什小，行业指南说马拉喀什开价常是成交价的 4–5 倍。"
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "ink",
+   "stamp": "买",
+   "title": "老城购物，按街区逛",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Grand Socco（9 Avril 广场）",
+       "desc": "日常市场：水果、香料、鲜花、里夫山区农产"
+      },
+      {
+       "name": "Petit Socco 周边巷道",
+       "desc": "皮具、babouche 拖鞋、纺织品、咖啡馆"
+      },
+      {
+       "name": "Rue Siaghine",
+       "desc": "历史上的银匠街，现在是金银首饰和纪念品"
+      },
+      {
+       "name": "Rue Mouahidines",
+       "desc": "手工艺摊位最密，能看到陶工、木工、皮匠现场干活"
+      },
+      {
+       "name": "Cinema Rif 附近",
+       "desc": "从 Grand Socco 上台阶，babouche 专门市场"
+      },
+      {
+       "name": "Souk Fondak Chejra",
+       "desc": "织工市场，手织毯可以直接向织工买"
+      },
+      {
+       "name": "Bab Kasbah 一带",
+       "desc": "香料摊"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "wall",
+   "stamp": "买",
+   "title": "皮革：丹吉尔的主场",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "two",
+     "items": [
+      {
+       "img": 0,
+       "w": 40,
+       "h": 54,
+       "pos": "40% 50%"
+      },
+      {
+       "img": 1,
+       "w": 40,
+       "h": 46,
+       "mt": 8
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Babouche 拖鞋",
+       "desc": "尖头无后跟，男款多黄白，女款多彩绣",
+       "tag": "80–250 dh"
+      },
+      {
+       "name": "皮夹克",
+       "desc": "丹吉尔公认最值得买的皮货，欧洲同款 €200 以上",
+       "tag": "500–1,500 dh"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "辨真假：皮软有弹性、针脚可见；底是缝的不是胶粘；指甲在背面划一下，真皮的痕迹能抹平，PU 不会。"
+    }
+   ],
+   "credit_imgs": [
+    0,
+    1
+   ]
+  },
+  {
+   "theme": "ink",
+   "stamp": "买",
+   "title": "陶器：手工还是工厂货",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "two",
+     "items": [
+      {
+       "img": 2,
+       "w": 40,
+       "h": 38,
+       "pos": "40% 50%"
+      },
+      {
+       "img": 3,
+       "w": 40,
+       "h": 32,
+       "mt": 6
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "重量",
+       "desc": "偏重，壁厚不均匀 · 工厂货厚度一致"
+      },
+      {
+       "name": "彩绘",
+       "desc": "看得见笔触 · 工厂货整齐重复"
+      },
+      {
+       "name": "底部",
+       "desc": "粗糙、未上釉 · 工厂货完全光滑"
+      },
+      {
+       "name": "敲击",
+       "desc": "清脆有回响 · 工厂货声音发闷"
+      },
+      {
+       "name": "同款两件",
+       "desc": "永远有差异 · 工厂货一模一样"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    2,
+    3
+   ]
+  },
+  {
+   "theme": "wall",
+   "stamp": "买",
+   "title": "陶器的价格梯子",
+   "blocks": [
+    {
+     "type": "lede",
+     "text": "产地作坊是基准价；老城 souk 摊位高 50–100%；景点旁的游客店是作坊价的 2–3 倍。"
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "小碗、茶杯",
+       "desc": "老城合理成交",
+       "tag": "30–60 dh"
+      },
+      {
+       "name": "中盘",
+       "desc": "",
+       "tag": "80–150 dh"
+      },
+      {
+       "name": "素坯塔吉锅（可煮）",
+       "desc": "",
+       "tag": "120–250 dh"
+      },
+      {
+       "name": "彩绘装饰塔吉",
+       "desc": "",
+       "tag": "150–400 dh"
+      },
+      {
+       "name": "非斯蓝大浅盘",
+       "desc": "",
+       "tag": "400–900 dh"
+      },
+      {
+       "name": "Zellige 单块散砖",
+       "desc": "",
+       "tag": "10–40 dh"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "这些是按产地价和层级溢价推算的合理区间，不是实测价。成套买能再让 15–25%。"
+    }
+   ],
+   "bottom": [
+    {
+     "img": 4,
+     "w": 34,
+     "h": 36,
+     "cap": "示意图 · Zellige 散砖"
+    },
+    {
+     "img": 7,
+     "w": 34,
+     "h": 30,
+     "cap": "示意图 · 茶具"
+    }
+   ],
+   "credit_imgs": [
+    4,
+    7
+   ]
+  },
+  {
+   "theme": "door",
+   "stamp": "买",
+   "title": "灯和地毯",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "two",
+     "items": [
+      {
+       "img": 11,
+       "w": 36,
+       "h": 54,
+       "pos": "50% 40%",
+       "cap": "示意图 · 马拉喀什"
+      },
+      {
+       "img": 9,
+       "w": 44,
+       "h": 36,
+       "mt": 18
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "穿孔铜灯",
+       "desc": "手伸进灯罩内壁摸：有毛刺是手工，边缘光滑是机器冲压。再掂重量、拿磁铁试：黄铜不吸磁",
+       "tag": "150–600 dh"
+      },
+      {
+       "name": "手织毯",
+       "desc": "到 Fondak Chejra 织工市场，看织工现场操作，直接向织工买"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    11,
+    9
+   ]
+  },
+  {
+   "theme": "ink",
+   "stamp": "买",
+   "title": "砍价：六步走",
+   "blocks": [
+    {
+     "type": "steps",
+     "items": [
+      {
+       "name": "先定锚",
+       "desc": "进 souk 前，先去固定价合作社看同类货的标价。没有锚点的砍价是瞎砍"
+      },
+      {
+       "name": "把开价除以 2–3",
+       "desc": "摊位开价通常是可接受价的 2–3 倍"
+      },
+      {
+       "name": "从 1/3 还起",
+       "desc": "目标落在 50% 左右。小件陶器可以更狠，砍到 40% 是现实的"
+      },
+      {
+       "name": "成组谈总价",
+       "desc": "想买 6 只碗，就谈 6 只的总价，通常还能再让 15–25%"
+      },
+      {
+       "name": "准备走人",
+       "desc": "进场前定死上限，并且真的愿意走。摊主追出来喊的价，接近真实底价"
+      },
+      {
+       "name": "别砍到底",
+       "desc": "对方是转售商，也是工匠。目标是公道价，不是击穿价"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "问价：bshhal hada?（这个多少钱）"
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "wall",
+   "stamp": "买",
+   "title": "买东西的五个坑",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "免费向导和“朋友的工厂”",
+       "desc": "带你去某个“合作社”的人，拿 20–40% 回扣，钱加在你的价格里"
+      },
+      {
+       "name": "“古董”",
+       "desc": "老城里真古董极少，做旧是成熟的生意"
+      },
+      {
+       "name": "第一天别买",
+       "desc": "先逛一整圈，第二天价格往往不一样"
+      },
+      {
+       "name": "现金为王",
+       "desc": "多备小面额迪拉姆。迪拉姆是封闭货币，离境前花完或换回"
+      },
+      {
+       "name": "拍照先问一声",
+       "desc": "不少摊主介意，也有人因此抬价"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "陶器易碎又重：买大件前确认摊主给泡沫加纸箱打包，塔吉锅的盖和底分开裹。"
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "ink",
+   "stamp": "吃",
+   "title": "早上和街头，几块钱吃饱",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 22,
+       "w": 29,
+       "h": 34,
+       "pos": "50% 55%"
+      },
+      {
+       "img": 24,
+       "w": 29,
+       "h": 30,
+       "mt": 4
+      },
+      {
+       "img": 31,
+       "w": 29,
+       "h": 34
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Bissara",
+       "desc": "干蚕豆泥浓汤，浇橄榄油孜然，配面包。7–11 点，卖完就收",
+       "tag": "5–10 dh"
+      },
+      {
+       "name": "Sfenj",
+       "desc": "现炸圈饼，不甜，撒糖吃",
+       "tag": "2–4 dh"
+      },
+      {
+       "name": "Msemen 配蜂蜜",
+       "desc": "千层煎饼，早餐或下午茶",
+       "tag": "5–10 dh"
+      },
+      {
+       "name": "Maakouda",
+       "desc": "炸土豆饼，可夹进面包",
+       "tag": "5–8 dh"
+      },
+      {
+       "name": "Kalinti",
+       "desc": "鹰嘴豆粉加蛋烤的咸派，傍晚街头摊",
+       "tag": "约 20 dh"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    22,
+    24,
+    31
+   ]
+  },
+  {
+   "theme": "wall",
+   "stamp": "吃",
+   "title": "正餐吃什么",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 23,
+       "w": 29,
+       "h": 36
+      },
+      {
+       "img": 18,
+       "w": 29,
+       "h": 42
+      },
+      {
+       "img": 19,
+       "w": 29,
+       "h": 36
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Harira",
+       "desc": "番茄鹰嘴豆羊肉浓汤，傍晚和夜宵",
+       "tag": "10–20 dh"
+      },
+      {
+       "name": "烤肉串 brochettes",
+       "desc": "炭火现烤，配面包和辣酱，一串",
+       "tag": "8–15 dh"
+      },
+      {
+       "name": "塔吉锅",
+       "desc": "小馆 40–70 dh，游客区 80–150 dh",
+       "tag": "40–150 dh"
+      },
+      {
+       "name": "库斯库斯",
+       "desc": "本地馆子大多只在周五中午做。错过要等一周",
+       "tag": "50–80 dh"
+      },
+      {
+       "name": "烤鱼",
+       "desc": "沙丁鱼、鲷鱼、鱿鱼，炭烤加 chermoula 腌料，午餐最佳",
+       "tag": "50–90 dh"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    23,
+    18,
+    19
+   ]
+  },
+  {
+   "theme": "mint",
+   "stamp": "吃",
+   "title": "甜点和薄荷茶",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 27,
+       "w": 29,
+       "h": 36
+      },
+      {
+       "img": 28,
+       "w": 29,
+       "h": 30,
+       "mt": 6
+      },
+      {
+       "img": 33,
+       "w": 29,
+       "h": 40
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "薄荷茶",
+       "desc": "绿茶加一大把薄荷和大量糖，高冲入杯。饭后和下午都喝",
+       "tag": "8–15 dh"
+      },
+      {
+       "name": "Chebakia",
+       "desc": "花形油炸面点，裹蜂蜜和芝麻"
+      },
+      {
+       "name": "Sellou",
+       "desc": "炒面粉加杏仁芝麻，高热量的“能量泥”"
+      },
+      {
+       "name": "Kaab el ghazal",
+       "desc": "“羚羊角”，杏仁膏新月酥"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "买正经糕点，去新城 Ville Nouvelle 的 pâtisserie，比老城游客铺靠谱。一份约 10–30 dh。"
+    }
+   ],
+   "credit_imgs": [
+    27,
+    28,
+    33
+   ]
+  },
+  {
+   "theme": "ink",
+   "stamp": "吃",
+   "title": "去哪吃",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Restaurant Bachir",
+       "desc": "塔吉、周五 couscous，价格很低。午饭挤爆，要早去"
+      },
+      {
+       "name": "Chez Hassan",
+       "desc": "往 Kasbah 上坡的本地烤肉店，kefta 和串烧"
+      },
+      {
+       "name": "Le Saveur du Poisson",
+       "desc": "没有菜单，固定一套多道海鲜",
+       "tag": "250 dh"
+      },
+      {
+       "name": "Darna",
+       "desc": "无花果树下的院子，固定家常菜"
+      },
+      {
+       "name": "中央鱼市",
+       "desc": "早上买鱼，请旁边摊子现烤，先谈死总价"
+      },
+      {
+       "name": "Café Hafa",
+       "desc": "1921 年的悬崖茶座，正对海峡",
+       "tag": "约 10 dh"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "人均：街头 20–50，小馆 50–100，中档 120–280，高端 300–700 dh。营业状态出发前再核对。"
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "wall",
+   "stamp": "吃",
+   "title": "吃饭避坑",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "街上搭话带路的人",
+       "desc": "一律拒绝。很多是拿回扣的无证导游，事后还会要高额小费"
+      },
+      {
+       "name": "没有价目表",
+       "desc": "不是风情，是危险信号。坐下和动筷前先把价格谈定"
+      },
+      {
+       "name": "地标正面的位子",
+       "desc": "Petit Socco、Grand Socco 正对面、Kasbah 门口，同样一杯茶贵 20–30%。往里走两条巷子就回落"
+      },
+      {
+       "name": "怎么找本地店",
+       "desc": "中午 12:30–14:00 看哪家挤满本地上班族；周五中午有 couscous 是强信号"
+      },
+      {
+       "name": "海滩餐厅的饮料",
+       "desc": "主菜可能合理，一杯果汁却要 38 dh，就是靠这个找补"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "ink",
+   "stamp": "海",
+   "title": "三处海滩，只有两处能游",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 35,
+       "w": 29,
+       "h": 36,
+       "cap": "市区海滩"
+      },
+      {
+       "img": 37,
+       "w": 29,
+       "h": 40,
+       "pos": "45% 50%",
+       "cap": "Achakkar"
+      },
+      {
+       "img": 36,
+       "w": 29,
+       "h": 34,
+       "cap": "Malabata"
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Plage Municipale",
+       "desc": "市区海滩，紧贴市中心。2026 年官方报告点名水质不达标，只散步，不下水"
+      },
+      {
+       "name": "Malabata / Ghandouri",
+       "desc": "市区范围内水最干净，全程有救生员，本地人游泳首选"
+      },
+      {
+       "name": "Achakkar",
+       "desc": "市区西面约 14 km，车程 25–30 分钟。人少水清，丹吉尔最主要的冲浪点。骆驼一次约 105 dh"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "去 Achakkar：Grand Socco 附近的 Rue Sidi Bouabid 坐合乘 grand taxi，约 20 dh 一人。顺路大力神洞，外国人门票 60 dh，下午晚些时候光线最好。"
+    }
+   ],
+   "credit_imgs": [
+    35,
+    37,
+    36
+   ]
+  },
+  {
+   "theme": "door",
+   "stamp": "海",
+   "title": "看日落的四个地方",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 34,
+       "w": 29,
+       "h": 36,
+       "cap": "Café Hafa"
+      },
+      {
+       "img": 38,
+       "w": 29,
+       "h": 30,
+       "cap": "Achakkar",
+       "mt": 6
+      },
+      {
+       "img": 39,
+       "w": 29,
+       "h": 36,
+       "cap": "Cap Spartel"
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Café Hafa",
+       "desc": "悬崖台地正对海峡。傍晚就关门，17:00 前去占靠外侧的位子"
+      },
+      {
+       "name": "Cap Spartel / Achakkar",
+       "desc": "大西洋正西，视野最开阔，是真正沉入海里的日落。提前约好回程车"
+      },
+      {
+       "name": "Kasbah 城墙 / Marshan 观景台",
+       "desc": "免费，走路可达，看海峡和对岸西班牙"
+      },
+      {
+       "name": "Malabata 海滨",
+       "desc": "朝向偏东，不是看日落的方位"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    34,
+    38,
+    39
+   ]
+  },
+  {
+   "theme": "wall",
+   "stamp": "海",
+   "title": "九月的天气和穿着",
+   "blocks": [
+    {
+     "type": "stats",
+     "items": [
+      {
+       "value": "21.8°C",
+       "label": "海水均温，下水很舒服"
+      },
+      {
+       "value": "26–27°C",
+       "label": "白天最高，夜里 18–20°C"
+      },
+      {
+       "value": "20 mm",
+       "label": "整月降水，约 4 天，基本是干的"
+      },
+      {
+       "value": "约 20 km/h",
+       "label": "平均风速，东风起来沙子打脸"
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "风大的日子",
+       "desc": "往西边 Achakkar 或找背风的湾"
+      },
+      {
+       "name": "沙滩上",
+       "desc": "市区海滩是本地人的海滩，保守款泳衣最省心：连体，或比基尼外套 T 恤和短裤"
+      },
+      {
+       "name": "离开沙滩",
+       "desc": "穿回来。穿泳装走在街上不合适，海滨步道也算街道，带一件罩衫"
+      },
+      {
+       "name": "进老城和 Kasbah",
+       "desc": "露肩、膝盖以上会明显增加被搭讪的次数"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "ink",
+   "stamp": "料",
+   "title": "进草药铺前，先记住这几条",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "樟脑别买",
+       "desc": "毒性最高的散装商品，误服 1 g 可致幼儿抽搐"
+      },
+      {
+       "name": "柑橘精油涂了别晒太阳",
+       "desc": "日照下涂在颈部锁骨会色素沉着数月，店员最爱抹锁骨"
+      },
+      {
+       "name": "精油不口服，不滴进浴缸",
+       "desc": "不溶于水，会以近原液浓度灼伤皮肤，要先与基底油混合"
+      },
+      {
+       "name": "黑皂不上脸",
+       "desc": "钾皂，pH 约 9–10。入眼冲水 15 分钟并就医"
+      },
+      {
+       "name": "黑海娜碰都不要碰",
+       "desc": "黑色来自 PPD，可致灼伤、终身过敏和疤痕"
+      },
+      {
+       "name": "散装 kohl 不上眼",
+       "desc": "常以方铅矿为基，过半检测含危险铅量。买空罐当工艺品"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "店员是商人，不是医生。成分不明的“治病”复方草药别吃。"
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "wall",
+   "stamp": "料",
+   "title": "藏红花：五步现场鉴别",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "two",
+     "items": [
+      {
+       "img": 17,
+       "w": 30,
+       "h": 26,
+       "cap": "示意图 · Mrirt"
+      }
+     ],
+     "side": "低于 **25–30 dh/g** 的“藏红花”，几乎不可能是纯品。"
+    },
+    {
+     "type": "steps",
+     "items": [
+      {
+       "name": "只买整丝，不买粉",
+       "desc": "粉末更容易混进廉价香料"
+      },
+      {
+       "name": "看形态",
+       "desc": "真柱头深红，一端喇叭口偏橙。通体一个红色是红花或玉米须"
+      },
+      {
+       "name": "水试",
+       "desc": "温水里 10–15 分钟慢慢渗出金黄，丝不褪白。泡出红水是染料"
+      },
+      {
+       "name": "闻",
+       "desc": "蜜甜里带一点金属和干草感。纯甜像香水是假的"
+      },
+      {
+       "name": "要产地证据",
+       "desc": "密封包装、合作社名、批号。官方合作社约 40 dh/g"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    17
+   ]
+  },
+  {
+   "theme": "ink",
+   "stamp": "行",
+   "title": "出发前值得读的网站",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Anou",
+       "desc": "手工艺购买。先记下同类货的国际零售价，当作砍价的锚点"
+      },
+      {
+       "name": "Homo Faber Guide · Morocco",
+       "desc": "约工坊探访"
+      },
+      {
+       "name": "Maison de l'Artisan",
+       "desc": "官方手工艺机构，现场认 Label Artisanat 章"
+      },
+      {
+       "name": "TasteAtlas · Morocco",
+       "desc": "当菜单词典用"
+      },
+      {
+       "name": "MarocMama",
+       "desc": "食谱和在地吃法"
+      },
+      {
+       "name": "Visit Morocco（ONMT）",
+       "desc": "摩洛哥国家旅游局，宣传信息与实务手续"
+      },
+      {
+       "name": "UNESCO 非物质文化遗产名录",
+       "desc": "真伪底线看这里"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "有价格的网站通常在卖东西，不卖东西的通常没价格。"
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "door",
+   "stamp": "行",
+   "title": "一天怎么走",
+   "blocks": [
+    {
+     "type": "steps",
+     "items": [
+      {
+       "name": "早上",
+       "desc": "去中央鱼市买鱼，请旁边的摊子现烤，先谈价"
+      },
+      {
+       "name": "中午",
+       "desc": "Restaurant Bachir 吃塔吉，要早去。周五别错过 couscous"
+      },
+      {
+       "name": "下午",
+       "desc": "Grand Socco 旁坐合乘 taxi，20 dh 去 Achakkar：游泳、骑骆驼、大力神洞"
+      },
+      {
+       "name": "傍晚",
+       "desc": "回程，或者就地看日落。回程车提前约好"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "全天餐饮加交通，200–300 dh（€19–29）足够。游泳只去 Malabata 或 Achakkar，市区海滩只用来散步。"
+    }
+   ],
+   "bottom": [
+    {
+     "img": 37,
+     "w": 34,
+     "h": 40,
+     "pos": "45% 50%",
+     "cap": "Achakkar"
+    },
+    {
+     "img": 38,
+     "w": 34,
+     "h": 32,
+     "cap": "Achakkar 日落"
+    }
+   ],
+   "credit_imgs": [
+    37,
+    38
+   ]
+  }
+ ]
+}

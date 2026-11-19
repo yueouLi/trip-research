@@ -1,0 +1,990 @@
+{
+ "theme": {
+  "lang": "en",
+  "title": "Tangier guide",
+  "fonts_href": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fraunces:opsz,wght@9..144,700;9..144,900&display=swap",
+  "extra_css": [
+   "theme-latin.css"
+  ],
+  "nobreak": [],
+  "footer_label": "Tangier guide · research notes",
+  "credit_prefix": "Photo: ",
+  "credits_title": "Photo credits",
+  "credits_lede": "All photos are from Wikimedia Commons, used under their own licences; authors are listed below. Unless a place is named, most are illustrations from elsewhere in Morocco, not Tangier.",
+  "credits_note": "Pre-trip research notes. Prices are ranges, not measured; check prices and opening status on the ground."
+ },
+ "cards": [
+  {
+   "type": "cover",
+   "where": "Northern tip of Morocco, across the strait from Spain",
+   "title": "Tangier",
+   "sub": [
+    "What to buy · What to eat",
+    "How to haggle · Where to watch the sea"
+   ],
+   "meta": "Pre-trip research notes · Prices in dirham (dh), €1 ≈ 10.5 dh",
+   "image": 5
+  },
+  {
+   "theme": "wall",
+   "stamp": "S",
+   "title": "One thing first: Tangier doesn't make pottery, it resells it",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "What Tangier really produces",
+       "desc": "Only two things: leather, and hand-woven rugs from the Rif mountains"
+      },
+      {
+       "name": "Everything else is trucked in",
+       "desc": "Pottery from Safi and Fez; brass, woodwork and carpets from Marrakech and Essaouira"
+      },
+      {
+       "name": "So prices follow a pattern",
+       "desc": "Asking prices run about 2–3× the final price. Counter at one third, settle near 50%"
+      },
+      {
+       "name": "Where to start",
+       "desc": "Ensemble Artisanal: government-run craft centres with fixed prices. See what the real thing looks like and costs, then go to the open stalls"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Haggling pressure is lower than in Marrakech, where guides say the first price is often 4–5× the final one."
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "ink",
+   "stamp": "S",
+   "title": "The medina, district by district",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Grand Socco (Place du 9 Avril)",
+       "desc": "Everyday market: fruit, spices, flowers, produce from the Rif"
+      },
+      {
+       "name": "Around Petit Socco",
+       "desc": "Leather goods, babouche slippers, textiles, cafés"
+      },
+      {
+       "name": "Rue Siaghine",
+       "desc": "The historic silversmiths' street; now gold, silver and souvenirs"
+      },
+      {
+       "name": "Rue Mouahidines",
+       "desc": "Densest crafts stalls; watch potters, carpenters and leatherworkers at work"
+      },
+      {
+       "name": "Near Cinema Rif",
+       "desc": "Up the steps from Grand Socco: the babouche market"
+      },
+      {
+       "name": "Souk Fondak Chejra",
+       "desc": "Weavers' market; buy hand-woven rugs straight from the weaver"
+      },
+      {
+       "name": "Around Bab Kasbah",
+       "desc": "Spice stalls"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "wall",
+   "stamp": "S",
+   "title": "Leather: Tangier's home turf",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "two",
+     "items": [
+      {
+       "img": 0,
+       "w": 40,
+       "h": 54,
+       "pos": "40% 50%"
+      },
+      {
+       "img": 1,
+       "w": 40,
+       "h": 46,
+       "mt": 8
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Babouche slippers",
+       "desc": "Pointed and backless; men's mostly yellow or white, women's embroidered",
+       "tag": "80–250 dh"
+      },
+      {
+       "name": "Leather jacket",
+       "desc": "The best buy in Tangier; €200+ for the same thing in Europe",
+       "tag": "500–1,500 dh"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Real or fake: soft, springy leather with visible stitching, soles sewn rather than glued. Scratch the back with a fingernail: real leather marks smooth out, PU doesn't."
+    }
+   ],
+   "credit_imgs": [
+    0,
+    1
+   ]
+  },
+  {
+   "theme": "ink",
+   "stamp": "S",
+   "title": "Pottery: handmade or factory?",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "two",
+     "items": [
+      {
+       "img": 2,
+       "w": 40,
+       "h": 38,
+       "pos": "40% 50%"
+      },
+      {
+       "img": 3,
+       "w": 40,
+       "h": 32,
+       "mt": 6
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Weight",
+       "desc": "Heavy, uneven walls · Factory: uniform thickness"
+      },
+      {
+       "name": "Painting",
+       "desc": "Visible brushstrokes · Factory: neat and repeating"
+      },
+      {
+       "name": "Underside",
+       "desc": "Rough and unglazed · Factory: perfectly smooth"
+      },
+      {
+       "name": "A tap",
+       "desc": "Clear ring · Factory: dull thud"
+      },
+      {
+       "name": "Same design twice",
+       "desc": "Always differs · Factory: identical"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    2,
+    3
+   ]
+  },
+  {
+   "theme": "wall",
+   "stamp": "S",
+   "title": "The pottery price ladder",
+   "lede": "Workshop price is the baseline. Medina stalls run 50–100% higher; tourist shops near the sights charge 2–3× the workshop price.",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Small bowl, tea glass",
+       "desc": "Fair medina price",
+       "tag": "30–60 dh"
+      },
+      {
+       "name": "Medium plate",
+       "desc": "",
+       "tag": "80–150 dh"
+      },
+      {
+       "name": "Cooking tagine (unglazed)",
+       "desc": "",
+       "tag": "120–250 dh"
+      },
+      {
+       "name": "Painted decorative tagine",
+       "desc": "",
+       "tag": "150–400 dh"
+      },
+      {
+       "name": "Large Fez-blue platter",
+       "desc": "",
+       "tag": "400–900 dh"
+      },
+      {
+       "name": "Single zellige tile",
+       "desc": "",
+       "tag": "10–40 dh"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Estimated from workshop prices and typical markups, not measured. Buying a set can save another 15–25%."
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "door",
+   "stamp": "S",
+   "title": "Lamps and rugs",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "two",
+     "items": [
+      {
+       "img": 11,
+       "w": 36,
+       "h": 54,
+       "pos": "50% 40%",
+       "cap": "Illustration · Marrakech"
+      },
+      {
+       "img": 9,
+       "w": 44,
+       "h": 36,
+       "mt": 18
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Pierced brass lamp",
+       "desc": "Reach inside the shade: burrs mean handmade, smooth edges mean machine-stamped. Check the weight; brass won't stick to a magnet",
+       "tag": "150–600 dh"
+      },
+      {
+       "name": "Hand-woven rugs",
+       "desc": "Visit the Fondak Chejra weavers' market, watch them work and buy direct"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    11,
+    9
+   ]
+  },
+  {
+   "theme": "ink",
+   "stamp": "S",
+   "title": "Haggling in six steps",
+   "blocks": [
+    {
+     "type": "steps",
+     "items": [
+      {
+       "name": "Set an anchor",
+       "desc": "Before the souk, check tags on similar goods at a fixed-price co-op. Haggling without an anchor is guessing"
+      },
+      {
+       "name": "Divide the ask by 2–3",
+       "desc": "A stall's first price is usually 2–3× what it would accept"
+      },
+      {
+       "name": "Start at one third",
+       "desc": "Aim for about 50%. On small pottery, 40% is realistic"
+      },
+      {
+       "name": "Bargain for the set",
+       "desc": "Six bowls? Negotiate the total; you can often shave another 15–25%"
+      },
+      {
+       "name": "Be ready to walk",
+       "desc": "Fix your limit before you go in, and mean it. The price shouted after you is near the real floor"
+      },
+      {
+       "name": "Don't squeeze to zero",
+       "desc": "They are resellers and craftspeople. Aim for a fair price, not a knockout"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Ask the price: bshhal hada? (how much is this?)"
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "wall",
+   "stamp": "S",
+   "title": "Five shopping traps",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Free guides and “my friend's factory”",
+       "desc": "Whoever walks you to a “cooperative” earns a 20–40% commission, added to your price"
+      },
+      {
+       "name": "“Antiques”",
+       "desc": "Real antiques are rare in the medina; ageing things is a mature business"
+      },
+      {
+       "name": "Don't buy on day one",
+       "desc": "Walk a full loop first. Prices often differ on the second day"
+      },
+      {
+       "name": "Cash is king",
+       "desc": "Carry small dirham notes. The dirham is a closed currency: spend or exchange it before you leave"
+      },
+      {
+       "name": "Ask before taking photos",
+       "desc": "Many vendors mind, and some raise the price because of it"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Pottery is fragile and heavy: confirm the seller packs it in foam and a box, and wrap tagine lid and base separately."
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "ink",
+   "stamp": "E",
+   "title": "Breakfast and street food, a few dirhams each",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 22,
+       "w": 29,
+       "h": 26,
+       "pos": "50% 55%"
+      },
+      {
+       "img": 24,
+       "w": 29,
+       "h": 22,
+       "mt": 4
+      },
+      {
+       "img": 31,
+       "w": 29,
+       "h": 26
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Bissara",
+       "desc": "Fava-bean soup with olive oil and cumin. 7–11 am, then sold out",
+       "tag": "5–10 dh"
+      },
+      {
+       "name": "Sfenj",
+       "desc": "Fried doughnut, not sweet",
+       "tag": "2–4 dh"
+      },
+      {
+       "name": "Msemen with honey",
+       "desc": "Layered flatbread, breakfast or tea",
+       "tag": "5–10 dh"
+      },
+      {
+       "name": "Maakouda",
+       "desc": "Fried potato cake, often in bread",
+       "tag": "5–8 dh"
+      },
+      {
+       "name": "Kalinti",
+       "desc": "Chickpea-flour and egg bake, evenings",
+       "tag": "~20 dh"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    22,
+    24,
+    31
+   ]
+  },
+  {
+   "theme": "wall",
+   "stamp": "E",
+   "title": "What to eat for a proper meal",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 23,
+       "w": 29,
+       "h": 22
+      },
+      {
+       "img": 18,
+       "w": 29,
+       "h": 26
+      },
+      {
+       "img": 19,
+       "w": 29,
+       "h": 22
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Harira",
+       "desc": "Tomato, chickpea and lamb soup; evenings",
+       "tag": "10–20 dh"
+      },
+      {
+       "name": "Brochettes",
+       "desc": "Charcoal-grilled, with bread and hot sauce, per skewer",
+       "tag": "8–15 dh"
+      },
+      {
+       "name": "Tagine",
+       "desc": "Local places 40–70 dh, tourist areas 80–150 dh",
+       "tag": "40–150 dh"
+      },
+      {
+       "name": "Couscous",
+       "desc": "Most local places serve it only at Friday lunch",
+       "tag": "50–80 dh"
+      },
+      {
+       "name": "Grilled fish",
+       "desc": "Sardines, bream, squid with chermoula; best at lunch",
+       "tag": "50–90 dh"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    23,
+    18,
+    19
+   ]
+  },
+  {
+   "theme": "mint",
+   "stamp": "E",
+   "title": "Sweets and mint tea",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 27,
+       "w": 29,
+       "h": 36
+      },
+      {
+       "img": 28,
+       "w": 29,
+       "h": 30,
+       "mt": 6
+      },
+      {
+       "img": 33,
+       "w": 29,
+       "h": 40
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Mint tea",
+       "desc": "Green tea with a fistful of mint and lots of sugar, poured from height. After meals and in the afternoon",
+       "tag": "8–15 dh"
+      },
+      {
+       "name": "Chebakia",
+       "desc": "Flower-shaped fried pastry in honey and sesame"
+      },
+      {
+       "name": "Sellou",
+       "desc": "Toasted flour with almonds and sesame, a calorie bomb"
+      },
+      {
+       "name": "Kaab el ghazal",
+       "desc": "“Gazelle horns”: almond-paste crescents"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "For proper pastries, go to the pâtisseries in the Ville Nouvelle rather than medina tourist shops. About 10–30 dh a portion."
+    }
+   ],
+   "credit_imgs": [
+    27,
+    28,
+    33
+   ]
+  },
+  {
+   "theme": "ink",
+   "stamp": "E",
+   "title": "Where to eat",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Restaurant Bachir",
+       "desc": "Tagine and Friday couscous, very cheap. Packed at lunch: go early"
+      },
+      {
+       "name": "Chez Hassan",
+       "desc": "Local grill on the way up to the Kasbah: kefta and skewers"
+      },
+      {
+       "name": "Le Saveur du Poisson",
+       "desc": "No menu, one fixed multi-course seafood meal",
+       "tag": "250 dh"
+      },
+      {
+       "name": "Darna",
+       "desc": "Courtyard under a fig tree, fixed home cooking"
+      },
+      {
+       "name": "Central fish market",
+       "desc": "Buy fish in the morning, have a nearby stall grill it. Agree the total first"
+      },
+      {
+       "name": "Café Hafa",
+       "desc": "A clifftop tea terrace since 1921, facing the strait",
+       "tag": "~10 dh"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Per person: street 20–50, local restaurant 50–100, mid-range 120–280, upscale 300–700 dh. Re-check opening status before you go."
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "wall",
+   "stamp": "E",
+   "title": "Eating out: traps to avoid",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Strangers who offer to lead you",
+       "desc": "Always refuse. Many are unlicensed guides on commission, and some demand big tips afterwards"
+      },
+      {
+       "name": "No price list",
+       "desc": "A warning sign, not charm. Agree the price before you sit or eat"
+      },
+      {
+       "name": "Seats facing a landmark",
+       "desc": "Petit Socco, across from Grand Socco, the Kasbah gate: the same tea costs 20–30% more. Walk two alleys in"
+      },
+      {
+       "name": "Spotting a local place",
+       "desc": "At 12:30–2 pm, see which one is full of local office workers. Friday couscous is a strong signal"
+      },
+      {
+       "name": "Beach-restaurant drinks",
+       "desc": "Mains may be fair, but a juice at 38 dh is how they make it back"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "ink",
+   "stamp": "B",
+   "title": "Three beaches, two for swimming",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 35,
+       "w": 29,
+       "h": 30,
+       "cap": "City beach"
+      },
+      {
+       "img": 37,
+       "w": 29,
+       "h": 34,
+       "pos": "45% 50%",
+       "cap": "Achakkar"
+      },
+      {
+       "img": 36,
+       "w": 29,
+       "h": 28,
+       "cap": "Malabata"
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Plage Municipale",
+       "desc": "City beach in the centre. A 2026 official report lists its water as non-compliant: walk, don't swim"
+      },
+      {
+       "name": "Malabata / Ghandouri",
+       "desc": "Cleanest water within the city, lifeguards throughout, locals' first choice"
+      },
+      {
+       "name": "Achakkar",
+       "desc": "14 km west, 25–30 min by car. Quiet, clear water, main surf spot. Camel ride about 105 dh"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "To Achakkar: shared grand taxi from Rue Sidi Bouabid, about 20 dh each. Add the Caves of Hercules: 60 dh, best light late afternoon."
+    }
+   ],
+   "credit_imgs": [
+    35,
+    37,
+    36
+   ]
+  },
+  {
+   "theme": "door",
+   "stamp": "B",
+   "title": "Four places to watch the sunset",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "three",
+     "items": [
+      {
+       "img": 34,
+       "w": 29,
+       "h": 36,
+       "cap": "Café Hafa"
+      },
+      {
+       "img": 38,
+       "w": 29,
+       "h": 30,
+       "cap": "Achakkar",
+       "mt": 6
+      },
+      {
+       "img": 39,
+       "w": 29,
+       "h": 36,
+       "cap": "Cap Spartel"
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Café Hafa",
+       "desc": "Clifftop terrace facing the strait. It closes around dusk: arrive before 5 pm for an outer seat"
+      },
+      {
+       "name": "Cap Spartel / Achakkar",
+       "desc": "Due west on the Atlantic, the widest view, a true sun-into-the-sea sunset. Book your ride back"
+      },
+      {
+       "name": "Kasbah walls / Marshan viewpoints",
+       "desc": "Free and walkable, with a view of the strait and Spain"
+      },
+      {
+       "name": "Malabata seafront",
+       "desc": "Faces east: not a sunset spot"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    34,
+    38,
+    39
+   ]
+  },
+  {
+   "theme": "wall",
+   "stamp": "B",
+   "title": "September: weather and what to wear",
+   "blocks": [
+    {
+     "type": "stats",
+     "items": [
+      {
+       "value": "21.8°C",
+       "label": "Average sea temperature"
+      },
+      {
+       "value": "26–27°C",
+       "label": "Daytime high; nights 18–20°C"
+      },
+      {
+       "value": "20 mm",
+       "label": "Rain all month, about 4 days; mostly dry"
+      },
+      {
+       "value": "~20 km/h",
+       "label": "Average wind; an easterly throws sand"
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Windy days",
+       "desc": "Head west to Achakkar or find a sheltered bay"
+      },
+      {
+       "name": "On the beach",
+       "desc": "The city beach is the locals' beach. Conservative swimwear is easiest: a one-piece, or bikini plus T-shirt"
+      },
+      {
+       "name": "Off the beach",
+       "desc": "Cover up. The seafront promenade counts as street: bring a wrap"
+      },
+      {
+       "name": "Medina and Kasbah",
+       "desc": "Bare shoulders and knees draw more attention"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "ink",
+   "stamp": "H",
+   "title": "Before you enter an herbalist's",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Don't buy camphor",
+       "desc": "The most toxic item on the shelf; 1 g can cause seizures in a toddler"
+      },
+      {
+       "name": "Citrus oil on skin, then sun",
+       "desc": "Pigmentation on neck and collarbone lasts months"
+      },
+      {
+       "name": "No essential oils by mouth or in the bath",
+       "desc": "They burn skin near-neat: mix with a carrier oil first"
+      },
+      {
+       "name": "Black soap isn't for faces",
+       "desc": "Potassium soap, pH 9–10. In the eyes: rinse 15 minutes and see a doctor"
+      },
+      {
+       "name": "Never “black henna”",
+       "desc": "The black comes from PPD: burns, lifelong allergy, scars"
+      },
+      {
+       "name": "No loose kohl near eyes",
+       "desc": "Often lead-based; over half of tests show dangerous lead levels"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Shopkeepers are merchants, not doctors."
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "wall",
+   "stamp": "H",
+   "title": "Saffron: five checks at the stall",
+   "blocks": [
+    {
+     "type": "photos",
+     "variant": "two",
+     "items": [
+      {
+       "img": 17,
+       "w": 30,
+       "h": 26,
+       "cap": "Illustration · Mrirt"
+      }
+     ],
+     "side": "Under **25–30 dh/g**, it is almost certainly not pure saffron."
+    },
+    {
+     "type": "steps",
+     "items": [
+      {
+       "name": "Whole threads, never powder",
+       "desc": "Powder hides cheaper spices"
+      },
+      {
+       "name": "Look at the shape",
+       "desc": "Deep red with one orange trumpet end. Uniform red means safflower or corn silk"
+      },
+      {
+       "name": "Water test",
+       "desc": "Warm water: gold seeps out over 10–15 min, thread stays red. Red water is dye"
+      },
+      {
+       "name": "Smell",
+       "desc": "Honey-sweet with a hint of metal and hay. Pure perfume-sweet is fake"
+      },
+      {
+       "name": "Ask for provenance",
+       "desc": "Sealed pack, co-op name, batch number. Co-op price ~40 dh/g"
+      }
+     ]
+    }
+   ],
+   "credit_imgs": [
+    17
+   ]
+  },
+  {
+   "theme": "ink",
+   "stamp": "P",
+   "title": "Sites worth reading before you go",
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "name": "Anou",
+       "desc": "Handmade goods to buy. Note the international prices first: your haggling anchor"
+      },
+      {
+       "name": "Homo Faber Guide · Morocco",
+       "desc": "For arranging workshop visits"
+      },
+      {
+       "name": "Maison de l'Artisan",
+       "desc": "Official crafts body; look for the Label Artisanat stamp in person"
+      },
+      {
+       "name": "TasteAtlas · Morocco",
+       "desc": "Use it as a menu dictionary"
+      },
+      {
+       "name": "MarocMama",
+       "desc": "Recipes and how locals eat"
+      },
+      {
+       "name": "Visit Morocco (ONMT)",
+       "desc": "National tourist office: promotion and practical procedures"
+      },
+      {
+       "name": "UNESCO Intangible Heritage list",
+       "desc": "Your baseline for what's authentic"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Sites with prices usually sell something."
+    }
+   ],
+   "credit_imgs": []
+  },
+  {
+   "theme": "door",
+   "stamp": "P",
+   "title": "One day, mapped out",
+   "blocks": [
+    {
+     "type": "steps",
+     "items": [
+      {
+       "name": "Morning",
+       "desc": "Central fish market: buy fish and have a stall grill it. Agree the price first"
+      },
+      {
+       "name": "Noon",
+       "desc": "Tagine at Restaurant Bachir; go early. On Friday, don't miss the couscous"
+      },
+      {
+       "name": "Afternoon",
+       "desc": "Shared taxi from beside Grand Socco, 20 dh to Achakkar: swim, camel ride, Caves of Hercules"
+      },
+      {
+       "name": "Evening",
+       "desc": "Head back, or stay for the sunset. Book the ride home in advance"
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "Food and transport for the day: 200–300 dh (€19–29). Swim only at Malabata or Achakkar; use the city beach for walks."
+    }
+   ],
+   "bottom": [
+    {
+     "img": 37,
+     "w": 34,
+     "h": 40,
+     "pos": "45% 50%",
+     "cap": "Achakkar"
+    },
+    {
+     "img": 38,
+     "w": 34,
+     "h": 32,
+     "cap": "Achakkar sunset"
+    }
+   ],
+   "credit_imgs": [
+    37,
+    38
+   ]
+  }
+ ]
+}

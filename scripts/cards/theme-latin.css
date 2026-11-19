@@ -1,0 +1,10 @@
+:root{--serif:"Fraunces","Noto Serif","Source Serif 4",Georgia,serif;--sans:"DM Sans","Noto Sans","Helvetica Neue",Arial,sans-serif}
+.t{font-size:7.6cqw;line-height:1.14;letter-spacing:-.005em;font-optical-sizing:auto}
+.stamp{font-size:4.6cqw}
+.row b{font-size:4cqw}
+.d{font-size:3.4cqw;line-height:1.5}
+.note{font-size:3.4cqw}
+.cover h1{font-size:19.5cqw;letter-spacing:-.01em;line-height:1.05}
+.sub{font-size:4.2cqw}
+.steps b{font-size:4cqw}
+.stats b{font-size:5.8cqw}
